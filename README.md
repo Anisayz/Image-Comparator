@@ -1,4 +1,4 @@
-# Images Comparator
+# Image Comparator
 
 A C++ command-line tool that compares two images using three complementary analysis methods and produces a combined similarity score.
 
